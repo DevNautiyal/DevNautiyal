@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Dev Nautiyal
 
-<!--
-**DevNautiyal/DevNautiyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+🚀 Aspiring AI/ML Engineer passionate about Machine Learning, Data Science, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy building intelligent applications, solving real-world problems, and continuously learning new technologies.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Passionate about Python, Machine Learning, and AI
+- 🌱 Currently learning Deep Learning, FastAPI, and LLMs
+- 🚀 Building AI-powered real-world projects
+- 🎯 Looking for AI/ML Internship opportunities
+
+---
+
+## 💻 Tech Stack
+
+Coming Soon...
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- FastAPI
+- LangChain
+- PostgreSQL
+
+---
+
+## ⭐ Featured Projects
+
+- 🛡️ CyberShield AI
+- 📧 SpamShield Email Classifier
+- 📊 Customer Churn Prediction
+- 🎵 Song Recommendation System
+- 💻 C++ DSA Repository
+
+---
+
+## 📊 GitHub Stats
+
+Coming Soon...
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn
+- Email
